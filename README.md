@@ -1,6 +1,5 @@
-# Breast-Cancer-Diagnosis-Prediction
-Breast Cancer Diagnosis Prediction: Sklearn Dataset Exploration and Logistic Regression Modeling
 # Breast Cancer Diagnosis Prediction
+Breast Cancer Diagnosis Prediction: Sklearn Dataset Exploration and Logistic Regression Modeling
 
 ## Project Overview:
 This project utilizes the Sklearn Breast Cancer Wisconsin dataset to build and evaluate a logistic regression model for breast cancer diagnosis. The model's performance is assessed using accuracy and precision metrics. Additionally, predictions are made on new, unseen data.
